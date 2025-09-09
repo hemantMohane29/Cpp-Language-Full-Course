@@ -56,8 +56,5 @@ By following this course, you will:
 
 ## 🚀 Usage Guide
 
-If you find this repository helpful, give it a star on Github! ⭐:
+If you find this repository helpful, give it a STAR on Github! ⭐:
 ---
-
-git clone https://github.com/your-username/cpp-language-full-course.git
-cd cpp-language-full-course
